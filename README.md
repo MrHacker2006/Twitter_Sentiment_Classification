@@ -6,7 +6,7 @@ This project performs binary sentiment analysis (positive or negative) on tweets
 
 ## 📁 Dataset
 
-- **Source:** [Sentiment140](http://help.sentiment140.com/for-students)
+- **Source:** https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis
 - **Subset used:** 100,000 rows from the original dataset.
 - **Columns Used:**
   - `sentiment`: 0 (negative) or 4 (positive), converted to 0 and 1
